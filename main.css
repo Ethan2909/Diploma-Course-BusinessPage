@@ -1,0 +1,115 @@
+#logo {
+
+    font-family: 'El Messiri', sans-serif;
+    padding-left:10px;
+    padding-right: 0px;
+    margin-bottom: -5px;
+    padding-top: 10px;
+    color: darkblue;
+
+}
+
+.header {
+
+
+    padding-bottom: 15px;
+
+}
+
+.socialMedia {
+    
+    position: relative;
+    top:25px;
+}
+
+.designLogo {
+
+    color: mediumturquoise !important;
+
+}
+.numberLogo {
+
+    color: lightpink !important;
+
+}
+
+body {
+
+    font-family: 'El Messiri', sans-serif;
+    padding:2px;
+}
+
+.carousel slide {
+
+    background-color: grey;
+}
+.carouselHeight {
+
+    max-height: auto;
+}
+
+.navbar {
+
+    position:sticky;
+    top: 4%;
+    width:auto;
+    color: black;
+
+
+}
+
+.container-fluid {
+
+    padding: 0;
+    max-width: 100%;
+}
+
+.imageText {
+
+    position:absolute;
+    height: auto;
+    width: 50%;
+    text-align: center;
+    top: 40%;
+    left: 25%;
+    color: gold;
+    text-decoration-color: black;
+    text-transform: uppercase;
+
+}
+
+#map {
+
+    height: 500px;
+}
+
+
+.fab {
+  
+  font-size: 50px;
+ padding:10px;
+  
+  
+}
+
+.fa-facebook {
+  
+  color: #3B5998;
+    
+}
+
+.fa-instagram {
+  
+  color: #125688;
+
+}
+
+.fa-twitter-square {
+ 
+  color: #55ACEE;
+}
+
+.fa-linkedin {
+  
+  color: #007bb5;
+}
